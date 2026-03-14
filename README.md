@@ -1,7 +1,7 @@
 # Inclusive Design Skills
 
 Agentic skills for designing accessible, inclusive products — from cognitive accessibility to adaptive interfaces, inclusive research, and accessibility decision-making.
-**48 skills** and **18 commands** across **6 plugins**.
+**40 skills** and **18 commands** across **6 plugins**.
 
 Works with any AI coding agent that supports the SKILL.md format: [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [OpenAI Codex](https://openai.com/index/codex/), [Gemini CLI](https://github.com/google-gemini/gemini-cli), [Cursor](https://www.cursor.com), and others.
 
@@ -18,11 +18,11 @@ Accessibility isn't a code review. It's a design commitment.
 | Plugin | Skills | Commands | Description |
 | --- | --- | --- | --- |
 | [cognitive-accessibility](cognitive-accessibility) | 8 | 3 | Design for how people actually think: cognitive load, plain language, wayfinding, focus, memory, and error recovery. |
-| [inclusive-interaction](inclusive-interaction) | 8 | 3 | Design multi-modal interactions that adapt to how people move, perceive, and communicate. |
-| [accessible-content](accessible-content) | 8 | 3 | Structure content that works for screen readers, cognitive differences, and diverse literacy levels. |
-| [inclusive-personas](inclusive-personas) | 8 | 3 | Build user stories, personas, and scenarios that include disability from the start. |
-| [adaptive-interfaces](adaptive-interfaces) | 8 | 3 | Design systems that respect user preferences and adapt to individual needs. |
-| [accessibility-decisions](accessibility-decisions) | 8 | 3 | Document, communicate, and maintain accessibility decisions across teams and time. |
+| [inclusive-interaction](inclusive-interaction) | 7 | 3 | Design multi-modal interactions that adapt to how people move, perceive, and communicate. |
+| [accessible-content](accessible-content) | 7 | 3 | Structure content that works for screen readers, cognitive differences, and diverse literacy levels. |
+| [inclusive-personas](inclusive-personas) | 6 | 3 | Build user stories, personas, and scenarios that include disability from the start. |
+| [adaptive-interfaces](adaptive-interfaces) | 6 | 3 | Design systems that respect user preferences and adapt to individual needs. |
+| [accessibility-decisions](accessibility-decisions) | 6 | 3 | Document, communicate, and maintain accessibility decisions across teams and time. |
 
 ## Quick Start
 
