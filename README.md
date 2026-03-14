@@ -83,11 +83,41 @@ For manual use without a coding agent: open any SKILL.md file, copy the contents
 - **Engineers** who want design-informed accessibility guidance, not just code linting.
 - **Anyone** building products used by humans in the full range of human experience.
 
-## Grounding
+## Grounding and Sources
 
-The cognitive accessibility plugin is grounded in the [W3C Cognitive and Learning Disabilities Accessibility Task Force (COGA)](https://www.w3.org/WAI/cognitive/) guidelines — the most authoritative framework for cognitive accessibility that exists. Other plugins draw on WCAG 2.2, inclusive design methodology, and disability studies research.
+Every skill in this collection is grounded in established frameworks, standards, and research. Nothing here is invented — it's existing accessibility knowledge structured into a format AI agents can use.
 
-These skills encode design judgment, not just compliance rules. They help you make better decisions, not just pass audits.
+### Standards and Guidelines
+
+| Source | Used in | What I drew from |
+| --- | --- | --- |
+| [WCAG 2.2](https://www.w3.org/TR/WCAG22/) (W3C) | All plugins | Success criteria for visual, interaction, and content accessibility |
+| [COGA: Making Content Usable](https://www.w3.org/TR/coga-usable/) (W3C) | cognitive-accessibility | The 8 objectives for cognitive accessibility design |
+| [COGA Issue Papers](https://w3c.github.io/coga/issue-papers/) (W3C) | cognitive-accessibility | Research modules on cognitive disabilities and web access |
+| [WAI-ARIA Authoring Practices](https://www.w3.org/WAI/ARIA/apg/) (W3C) | inclusive-interaction, accessible-content | Keyboard patterns, roles, and states for interactive components |
+| [CSS Media Queries Level 5](https://www.w3.org/TR/mediaqueries-5/) (W3C) | adaptive-interfaces | prefers-reduced-motion, prefers-contrast, prefers-color-scheme |
+
+### Frameworks and Methodologies
+
+| Source | Used in | What I drew from |
+| --- | --- | --- |
+| [Microsoft Inclusive Design Toolkit](https://inclusive.microsoft.design/) | inclusive-personas | Permanent, temporary, and situational impairment spectrum |
+| [Cognitive Load Theory](https://en.wikipedia.org/wiki/Cognitive_load_theory) (John Sweller) | cognitive-accessibility | Intrinsic, extraneous, and germane load framework |
+| [Plain Language Guidelines](https://www.plainlanguage.gov/) (US Government) | cognitive-accessibility, accessible-content | Readability principles and content simplification |
+| [Architecture Decision Records](https://adr.github.io/) | accessibility-decisions | Structure for documenting design decisions with context and rationale |
+| [W3C Alt Text Decision Tree](https://www.w3.org/WAI/tutorials/images/decision-tree/) | accessible-content | Framework for choosing appropriate alt text strategy |
+
+### Research and Advocacy
+
+| Source | Used in | What I drew from |
+| --- | --- | --- |
+| [Nothing About Us Without Us](https://en.wikipedia.org/wiki/Nothing_About_Us_Without_Us) (Disability rights movement) | inclusive-personas, CONTRIBUTING.md | Principle of centring lived experience in design |
+| [WebAIM Screen Reader Survey](https://webaim.org/projects/screenreadersurvey10/) | inclusive-interaction | Real-world assistive technology usage patterns |
+| [WHO World Report on Disability](https://www.who.int/publications/i/item/9789241564182) | inclusive-personas | Global disability prevalence and population data |
+
+### What I synthesised
+
+The **accessibility-decisions** plugin applies established software engineering practices (ADRs, technical debt tracking, stakeholder communication) to accessibility — a combination that doesn't have a single authoritative source but draws on how experienced accessibility practitioners actually work. The **inclusive-personas** plugin structures Microsoft's impairment spectrum into actionable persona and scenario templates. These are the synthesis of existing thinking, not novel frameworks.
 
 ## Contributing
 
