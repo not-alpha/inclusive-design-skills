@@ -3,6 +3,9 @@
   "name": "inclusive-design-skills",
   "version": "1.0.0",
   "description": "Agentic skills for designing accessible, inclusive products — from cognitive accessibility to adaptive interfaces, inclusive research, and accessibility decision-making.",
+  "owner": {
+    "name": "not-alpha"
+  },
   "plugins": [
     {
       "name": "cognitive-accessibility",
