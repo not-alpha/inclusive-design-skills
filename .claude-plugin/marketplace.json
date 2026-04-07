@@ -1,0 +1,44 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "inclusive-design-skills",
+  "version": "1.0.0",
+  "description": "Agentic skills for designing accessible, inclusive products — from cognitive accessibility to adaptive interfaces, inclusive research, and accessibility decision-making.",
+  "plugins": [
+    {
+      "name": "cognitive-accessibility",
+      "description": "Design for how people actually think: cognitive load, plain language, wayfinding, focus, memory, and error recovery.",
+      "source": "./cognitive-accessibility",
+      "category": "design"
+    },
+    {
+      "name": "inclusive-interaction",
+      "description": "Design multi-modal interactions that adapt to how people move, perceive, and communicate.",
+      "source": "./inclusive-interaction",
+      "category": "design"
+    },
+    {
+      "name": "accessible-content",
+      "description": "Structure content that works for screen readers, cognitive differences, and diverse literacy levels.",
+      "source": "./accessible-content",
+      "category": "design"
+    },
+    {
+      "name": "inclusive-personas",
+      "description": "Build user stories, personas, and scenarios that include disability from the start.",
+      "source": "./inclusive-personas",
+      "category": "design"
+    },
+    {
+      "name": "adaptive-interfaces",
+      "description": "Design systems that respect user preferences and adapt to individual needs.",
+      "source": "./adaptive-interfaces",
+      "category": "design"
+    },
+    {
+      "name": "accessibility-decisions",
+      "description": "Document, communicate, and maintain accessibility decisions across teams and time.",
+      "source": "./accessibility-decisions",
+      "category": "design"
+    }
+  ]
+}
