@@ -23,7 +23,7 @@ Test the interface at these viewport widths:
 At each viewport, using **responsive-accessibility**, document:
 - Content that overflows or is hidden
 - Interactive elements that are unreachable
-- Touch targets below 44×44px on touch viewports
+- Touch targets below 48×48px on touch viewports
 - Navigation that doesn't adapt
 - Functionality that disappears entirely
 

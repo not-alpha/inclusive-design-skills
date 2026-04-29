@@ -54,7 +54,7 @@ For every user story, add these checks to the acceptance criteria:
 - [ ] Content is readable at 200% zoom
 
 **Motor:**
-- [ ] Touch targets are at least 44×44px
+- [ ] Touch targets are at least 48×48px
 - [ ] No time-dependent interactions without alternatives
 - [ ] No precision-dependent interactions without alternatives
 

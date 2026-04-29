@@ -50,7 +50,7 @@ each item.
 ### What Should NOT Change With Density
 - Content meaning — no information should be lost at any density
 - Accessibility — every density level must meet WCAG requirements
-- Interaction targets — minimum 44×44px on touch regardless of density
+- Interaction targets — minimum 48×48px on touch regardless of density
 - Heading structure — structure stays consistent
 - Keyboard navigation — tab order stays logical
 
@@ -80,7 +80,7 @@ each item.
 - [ ] At least two density options are available
 - [ ] Default density is comfortable, not compact
 - [ ] No information is lost at any density level
-- [ ] Minimum touch targets (44×44px) are maintained at all densities
+- [ ] Minimum touch targets (48×48px) are maintained at all densities
 - [ ] Minimum text size (0.875rem) is maintained at all densities
 - [ ] Minimum line height (1.5) is maintained at all densities
 - [ ] Density preference is remembered across sessions

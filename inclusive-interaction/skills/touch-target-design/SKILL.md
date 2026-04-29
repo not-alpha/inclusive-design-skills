@@ -12,7 +12,7 @@ disability, age, environment, or device.
 ## Minimum Sizes
 
 ### Touch (mobile, tablet)
-- Minimum: 44×44 CSS pixels (WCAG 2.2 Level AA)
+- Minimum: 48×48 CSS pixels (WCAG 2.2 Level AA)
 - Recommended: 48×48 CSS pixels (Google Material guidelines)
 - For high-stakes or frequent-use targets: 56×56 or larger
 
@@ -61,7 +61,7 @@ disability, age, environment, or device.
 
 ## Assessment Questions
 
-1. Are all interactive elements at least 44×44px on touch devices?
+1. Are all interactive elements at least 48×48px on touch devices?
 2. Is there adequate spacing between adjacent targets?
 3. Are destructive actions separated from common actions?
 4. Can every interaction be completed without precision timing
